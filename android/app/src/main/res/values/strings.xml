@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Bloomi</string>
+    <string name="title_activity_main">Bloomi</string>
+    <string name="package_name">com.USC.Bloomi</string>
+    <string name="custom_url_scheme">com.USC.Bloomi</string>
+</resources>
